@@ -1,0 +1,35 @@
+[0.513s] Invoking command in '/home/shivam/ros2Workspace03/src/my_robot_controller': PYTHONPATH=/home/shivam/ros2Workspace03/build/my_robot_controller/prefix_override:/home/shivam/ros2Workspace03/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/shivam/ros2Workspace03/build/my_robot_controller/build install --record /home/shivam/ros2Workspace03/build/my_robot_controller/install.log --single-version-externally-managed
+[0.646s] running egg_info
+[0.647s] creating ../../build/my_robot_controller/my_robot_controller.egg-info
+[0.647s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[0.647s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[0.647s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[0.647s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[0.648s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[0.648s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.649s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.650s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.650s] running build
+[0.650s] running build_py
+[0.650s] creating /home/shivam/ros2Workspace03/build/my_robot_controller/build
+[0.651s] creating /home/shivam/ros2Workspace03/build/my_robot_controller/build/lib
+[0.651s] creating /home/shivam/ros2Workspace03/build/my_robot_controller/build/lib/my_robot_controller
+[0.651s] copying my_robot_controller/__init__.py -> /home/shivam/ros2Workspace03/build/my_robot_controller/build/lib/my_robot_controller
+[0.651s] running install
+[0.652s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.652s]   warnings.warn(
+[0.652s] running install_lib
+[0.652s] creating /home/shivam/ros2Workspace03/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.653s] copying /home/shivam/ros2Workspace03/build/my_robot_controller/build/lib/my_robot_controller/__init__.py -> /home/shivam/ros2Workspace03/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.653s] byte-compiling /home/shivam/ros2Workspace03/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/__init__.py to __init__.cpython-310.pyc
+[0.654s] running install_data
+[0.654s] creating /home/shivam/ros2Workspace03/install/my_robot_controller/share/ament_index
+[0.655s] creating /home/shivam/ros2Workspace03/install/my_robot_controller/share/ament_index/resource_index
+[0.655s] creating /home/shivam/ros2Workspace03/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.655s] copying resource/my_robot_controller -> /home/shivam/ros2Workspace03/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.655s] copying package.xml -> /home/shivam/ros2Workspace03/install/my_robot_controller/share/my_robot_controller
+[0.655s] running install_egg_info
+[0.658s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/shivam/ros2Workspace03/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[0.658s] running install_scripts
+[0.672s] writing list of installed files to '/home/shivam/ros2Workspace03/build/my_robot_controller/install.log'
+[0.689s] Invoked command in '/home/shivam/ros2Workspace03/src/my_robot_controller' returned '0': PYTHONPATH=/home/shivam/ros2Workspace03/build/my_robot_controller/prefix_override:/home/shivam/ros2Workspace03/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/shivam/ros2Workspace03/build/my_robot_controller/build install --record /home/shivam/ros2Workspace03/build/my_robot_controller/install.log --single-version-externally-managed
